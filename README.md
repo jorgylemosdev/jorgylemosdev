@@ -10,7 +10,7 @@
 
 ![1](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev2-changecolor-update.png?raw=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
-[![GitHub followers](https://img.shields.io/github/followers/JorgyLemos?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/jorgylemosdev?label=Follow&style=social)](https://github.com/jorgylemosdev/?tab=follow)
 
 ![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev_changecolor.png?raw=true)
 
@@ -51,7 +51,7 @@ if(githubPage.hasVisit){ /**@Visit ❤️ */
 
 ![carbon](https://github.com/jorgylemosdev/jorgylemosdev/blob/master/assets/webdev3-change-color.png?raw=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
-[![GitHub followers](https://img.shields.io/github/followers/jorgylemosdev?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/jorgylemosdev?label=Follow&style=social)](https://github.com/jorgylemosdev/?tab=follow)
 
 <hr>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgylemos&" alt="jorgylemos" /></p>
